@@ -1,0 +1,19 @@
+.header {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#input {
+  width: 670px;
+}
+.modal {
+  position: fixed !important;
+  top: 10%;
+  left: 35%;
+  width: 100%;
+  max-height: 100vh;
+}
+.dark{
+  background-color: #000;
+}

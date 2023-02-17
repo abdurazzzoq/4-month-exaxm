@@ -1,0 +1,24 @@
+
+
+body{
+    background-image: url(./images/Login.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#id{
+    padding-top: 200px;
+}
+#el-input, #password{
+   background: transparent;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.error-text{
+    color: red;
+    display: none;
+}
